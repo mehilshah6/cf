@@ -1,4 +1,22 @@
 {
+  "CF156814956": {
+    "contest_id": 148,
+    "language": "GNU C++14",
+    "path": "codeforces\\148\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Insomnia cure",
+    "problem_url": "https://codeforces.com/contest/148/problem/A",
+    "submission_id": "CF156814956",
+    "submission_url": "https://codeforces.com/contest/148/submission/156814956",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/11/2022 15:14"
+  },
   "CF156881147": {
     "contest_id": 230,
     "language": "GNU C++14",
