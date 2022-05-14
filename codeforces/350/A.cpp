@@ -18,12 +18,17 @@ void solve() {
 	vector<int> wa(m);
 	for (int i = 0; i < n; i++) cin >> ac[i];
 	for (int i = 0; i < m; i++) cin >> wa[i];
-	int v = *min_element(ac.begin(), ac.end());
-	int p = *max_element(ac.begin(), ac.end());
-	int c = *min_element(wa.begin(), wa.end());
-	if (max(2 * v, p) < c) {
-		cout << max (2*v, p);
-	} else cout << -1;
+	int start = *max_element(ac.begin(), ac.end());
+	int end = *min_element(wa.begin(), wa.end());
+	for (int i = start; i < end; i++) {
+		for (int j = 0; j < ac.size(); j++) {
+			if (2 * ac[j] <= i) {
+				cout << i;
+				return;
+			}
+		}
+	}
+	cout << -1;
 }
 
 int main() {
