@@ -1,4 +1,20 @@
 {
+  "CF157290099": {
+    "contest_id": 165,
+    "language": "GNU C++14",
+    "path": "codeforces\\165\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Supercentral Point",
+    "problem_url": "https://codeforces.com/contest/165/problem/A",
+    "submission_id": "CF157290099",
+    "submission_url": "https://codeforces.com/contest/165/submission/157290099",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/15/2022 15:43"
+  },
   "CF157290591": {
     "contest_id": 96,
     "language": "GNU C++14",
