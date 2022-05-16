@@ -1,4 +1,20 @@
 {
+  "CF157356234": {
+    "contest_id": 248,
+    "language": "GNU C++14",
+    "path": "codeforces\\248\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cupboards",
+    "problem_url": "https://codeforces.com/contest/248/problem/A",
+    "submission_id": "CF157356234",
+    "submission_url": "https://codeforces.com/contest/248/submission/157356234",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2022 09:00"
+  },
   "CF157358270": {
     "contest_id": 342,
     "language": "GNU C++14",
