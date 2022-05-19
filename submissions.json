@@ -1,4 +1,22 @@
 {
+  "CF157623940": {
+    "contest_id": 298,
+    "language": "GNU C++14",
+    "path": "codeforces\\298\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sail",
+    "problem_url": "https://codeforces.com/contest/298/problem/B",
+    "submission_id": "CF157623940",
+    "submission_url": "https://codeforces.com/contest/298/submission/157623940",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/19/2022 09:46"
+  },
   "CF157761015": {
     "contest_id": 320,
     "language": "GNU C++14",
