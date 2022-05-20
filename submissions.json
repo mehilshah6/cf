@@ -1,4 +1,21 @@
 {
+  "CF157765634": {
+    "contest_id": 151,
+    "language": "GNU C++14",
+    "path": "codeforces\\151\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Soft Drinking",
+    "problem_url": "https://codeforces.com/contest/151/problem/A",
+    "submission_id": "CF157765634",
+    "submission_url": "https://codeforces.com/contest/151/submission/157765634",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/20/2022 10:14"
+  },
   "CF157858357": {
     "contest_id": 327,
     "language": "GNU C++14",
