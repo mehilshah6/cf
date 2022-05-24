@@ -1,4 +1,20 @@
 {
+  "CF158261499": {
+    "contest_id": 218,
+    "language": "GNU C++14",
+    "path": "codeforces\\218\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Airport",
+    "problem_url": "https://codeforces.com/contest/218/problem/B",
+    "submission_id": "CF158261499",
+    "submission_url": "https://codeforces.com/contest/218/submission/158261499",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/24/2022 09:37"
+  },
   "CF158261660": {
     "contest_id": 32,
     "language": "GNU C++14",
