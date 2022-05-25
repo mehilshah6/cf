@@ -22,21 +22,26 @@ void solve() {
 			v[i][j] = c;
 		}
 	}
+	vector<vector<char>> board(n, vector<char>(m));
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {
-			if (v[i][j] == '.') {
 			if ((i + j) % 2 == 0) {
-				cout << 'B';
+				board[i][j] = 'B';
 			} else {
-				cout << 'W';
+				board[i][j] = 'W';
 			}
-		} else {
-			cout << '-';
 		}
+	}
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			if (v[i][j] == '-') {
+				cout << '-';
+			} else {
+				cout << board[i][j];
+			}
 		}
 		cout << endl;
 	}
-
 }
 int main() {
 	ios::sync_with_stdio(false);
