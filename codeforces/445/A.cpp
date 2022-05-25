@@ -19,18 +19,24 @@ void solve() {
 		for (int j = 0; j < m; j++) {
 			char c;
 			cin >> c;
-			if (c == '-') {
-				cout << '-';
+			v[i][j] = c;
+		}
+	}
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			if (v[i][j] == '.') {
+			if ((i + j) % 2 == 0) {
+				cout << 'B';
 			} else {
-				if ((i + j) % 2 == 0) {
-					cout << 'B';
-				} else {
-					cout << 'W';
-				}
+				cout << 'W';
 			}
+		} else {
+			cout << '-';
+		}
 		}
 		cout << endl;
 	}
+
 }
 int main() {
 	ios::sync_with_stdio(false);
