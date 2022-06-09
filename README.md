@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [B - Drinks](https://codeforces.com/contest/200/problem/B) | [GNU C++14](./codeforces/200/B.cpp) | `implementation` `math` `*800` | Jun/09/2022 23:07 | 
+2 | [B - Drinks](https://codeforces.com/contest/200/problem/B) | [GNU C++14](./codeforces/200/B.cpp) | `implementation` `math` `*800` | Jun/09/2022 23:07 | 
+1 | [A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | [GNU C++14](./codeforces/61/A.cpp) | `implementation` `*800` | Jun/09/2022 09:57 | 
